@@ -1,0 +1,13 @@
+**/package-lock.json
+**/node_modules/*
+**/swagger-ui/*
+**/target/*
+**/out/*
+**/.idea/*
+**/*.iml
+**/.bash_history
+**/bash.exe.stackdump
+**/*.swp
+**/.DS_Store
+**/*.jar
+**/*.log
